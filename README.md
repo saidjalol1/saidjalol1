@@ -50,9 +50,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidjalol-turakhujayev-00444a2b2)
 
 
-![GitHub stars](https://img.shields.io/github/stars/saidjalol1/my-repo?style=for-the-badge&logo=github&logoColor=white)
-
-
 
 
 
