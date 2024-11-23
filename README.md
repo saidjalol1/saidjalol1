@@ -8,7 +8,11 @@
     <li>💻 I am currently working as freelancer</li>
     <li>📅 19 years old</li>
     <li>💼 2+ years of experience as Full-stack web developer</li>
-    <li>💼 2+ years of experience as Full-stack web developer</li>
+    <li>🌍 Languages I Speak:
+        <br/>
+        ![English](https://img.shields.io/badge/English-0078D4?style=for-the-badge&logo=english&logoColor=white)
+        ![Uzbek](https://img.shields.io/badge/Uzbek-009639?style=for-the-badge&logo=uzbekistan&logoColor=white)
+    </li>
 <ul/>
 
 <h1>🛠️ My Tech Stacks</h1>
