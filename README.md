@@ -49,7 +49,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saidjalol10)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saidjalol-turakhujayev-00444a2b2)
 
-<br/>
+
 ![GitHub stars](https://img.shields.io/github/stars/saidjalol1/my-repo?style=for-the-badge&logo=github&logoColor=white)
 
 
