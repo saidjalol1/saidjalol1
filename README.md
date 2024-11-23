@@ -10,8 +10,7 @@
     <li>💼 2+ years of experience as Full-stack web developer</li>
     <li>🌍 Languages I Speak:
         <br/>
-        ![English](https://img.shields.io/badge/English-0078D4?style=for-the-badge&logo=english&logoColor=white)
-        ![Uzbek](https://img.shields.io/badge/Uzbek-009639?style=for-the-badge&logo=uzbekistan&logoColor=white)
+        ![](https://img.shields.io/badge/just%20the%20message-8A2BE2)
     </li>
 <ul/>
 
