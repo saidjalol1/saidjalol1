@@ -7,7 +7,7 @@
 <ul>
     <li>💻 I am currently working as freelancer</li>
     <li>📅 19 years old</li>
-    <li>💼 2+ years of experience as Full-stack web developer</li>
+    <li>💼 3+ years of experience as Full-stack web developer</li>
     <li>🌍 Languages I Speak:Uzbek , English</li>
     <li>🎓 3rd grade in Andizhan State Institue of Foreighn Languages</li>
     <li>📅 Graduates in 2026</li>
