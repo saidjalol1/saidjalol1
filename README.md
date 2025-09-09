@@ -5,7 +5,6 @@
 <h1>🙋‍♂️ About Me</h1>
 
 <ul>
-    <li>💻 I am currently working as freelancer</li>
     <li>📅 20 years old</li>
     <li>💼 3+ years of experience as Full-stack web developer</li>
     <li>🌍 Languages I Speak:Uzbek , English</li>
