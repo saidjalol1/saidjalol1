@@ -5,8 +5,8 @@
 <h1>🙋‍♂️ About Me</h1>
 
 <ul>
-    <li>📅 20 years old</li>
-    <li>💼 3+ years of experience as Software Engineer</li>
+    <li>📅 21 years old</li>
+    <li>💼 5 years of experience as Software Engineer</li>
     <li>🌍 Languages I Speak:Uzbek , English</li>
     <li>🎓 4rd grade in Andizhan State Institue of Foreighn Languages</li>
     <li>📅 Graduates in 2026</li>
